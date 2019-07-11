@@ -2,4 +2,4 @@
 Travis CI Hello World
 
 #Travis Badge
-https://travis-ci.com/seun19/travis-test-ci.svg?branch=master
+[![Build Status](https://travis-ci.com/seun19/travis-test-ci.svg?branch=master)](https://travis-ci.com/seun19/travis-test-ci)
